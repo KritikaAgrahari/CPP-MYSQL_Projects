@@ -1,4 +1,3 @@
-Here’s the corrected `README.md` file for both the **Student Management System** and **Library Management System** projects:
 
 ```markdown
 # Student and Library Management Systems (C++ & MySQL)
